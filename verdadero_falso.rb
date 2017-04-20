@@ -1,3 +1,4 @@
+#Ejercicio de comparaciones
 p igual_que = 50 == 50
 p #=> true
 p menor_que = 23 < 30
